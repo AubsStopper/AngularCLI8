@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-Run `npm run server` to get local database information filled in with faker.js running.
+Run `npm run server` to get database.json spun up.
 
 ## Code scaffolding
 
